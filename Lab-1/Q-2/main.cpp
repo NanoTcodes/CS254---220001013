@@ -27,7 +27,7 @@ int main() {
     vector<vector<int>> dp(n+2, vector<int>(W+2, 0));
     for(int i = 1; i <= n; ++i) {
         for(int w = 1; w <= W; ++w) {
-            if(weights[w-1] <= w)
+            if(weights[i-1] <= w)
                 dp[i][w] = max(values[i-1] + dp[i-1][w - weights[i-1]], dp[i-1][w]);
             else 
                 dp[i][w] = dp[i-1][w];
