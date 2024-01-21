@@ -1,0 +1,10 @@
+First minima: 1 and second minima: 33
+First minima: 144 and second minima: 152
+First minima: 28 and second minima: 50
+First minima: 3 and second minima: 6
+First minima: 31 and second minima: 54
+First minima: 29 and second minima: 34
+First minima: 4 and second minima: 11
+First minima: 10 and second minima: 39
+First minima: 15 and second minima: 27
+First minima: 13 and second minima: 16

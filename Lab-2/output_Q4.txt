@@ -1,0 +1,5 @@
+Median: 5001236.5
+Median: 5010667
+Median: 5024003.5
+Median: 5012877.5
+Median: 5011257
